@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Campus Locator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_section1">Campus Locator</string>
+    <string name="title_section2">Buildings</string>
+    <string name="title_section3">Dining</string>
+    <string name="title_section4">Parking Lots</string>
+    <string name="title_section5">Bus/Shuttle Stops</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">ex</string>
+    <string name="loc">Locate-me</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="Buildings">
+        <item>Academic Services</item>
+        <item>Accessibility Services</item>
+        <item>Agora Stage</item>
+        <item>Art And Education</item>
+        <item>Athletics Temporary Offices</item>
+        <item>Boiler Plant/Storage</item>
+        <item>Campus Police Station</item>
+        <item>Corporation Yard/Receiving</item>
+        <item>Facilities Maintenance</item>
+        <item>Field house Offices</item>
+        <item>Meiklejohn Hall</item>
+        <item>Music Building</item>
+        <item>Old University Union</item>
+        <item>Physical Education and Gym</item>
+        <item>Pioneer Amphitheatre</item>
+        <item>Pioneer Bookstore</item>
+        <item>Pioneer Heights Student Housing</item>
+        <item>Pioneer Stadium</item>
+        <item>Recreation and Wellness Center</item>
+        <item>Robinson Hall</item>
+        <item>Science Building</item>
+        <item>Student Health Center</item>
+        <item>Student Services and Administration</item>
+        <item>Support Temporary Offices</item>
+        <item>University Art Gallery</item>
+        <item>University Library</item>
+        <item>University Theatre</item>
+        <item>University Union</item>
+        <item>Valley Business and Technology Center</item>
+        <item>Welcome Center for Future Students</item>
+    </string-array>
+
+    <string-array name="Dining">
+        <item>Dining Commons</item>
+        <item>Einstein Bros</item>
+        <item>Greens To Go</item>
+        <item>Jamba Juice</item>
+        <item>Panda Express</item>
+        <item>P.O.D</item>
+        <item>Pizza Hut</item>
+        <item>Starbucks</item>
+        <item>Subway</item>
+        <item>Taco Bell</item>
+
+    </string-array>
+
+    <string-array name="Parking">
+        <item>Lot A</item>
+        <item>Lot B</item>
+        <item>Lot C</item>
+        <item>Lot C1</item>
+        <item>Lot D</item>
+        <item>Lot E</item>
+        <item>Lot F</item>
+        <item>Lot G</item>
+        <item>Lot H</item>
+        <item>Lot J</item>
+        <item>Lot K</item>
+        <item>Lot L</item>
+        <item>Lot M</item>
+        <item>Lot N</item>
+        <item>Lot O</item>
+        <item>Lot P</item>
+
+    </string-array>
+
+    <string-array name="Shuttle">
+        <item>Stop A: Raw Center</item>
+        <item>Stop B: University Police</item>
+        <item>Stop C: Music Building</item>
+        <item>Stop D: Old Hilary Rd.</item>
+        <item>Stop E: University Village</item>
+    </string-array>
+</resources>
