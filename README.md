@@ -2,7 +2,7 @@
 
 1. [Description](#description)
 2. [Technologies](#technologies)
-3. [How it works](#howitworks)
+3. [How it works](#how-it-works)
 4. [APK](#apk)
 5. [Screenshots](#screenshots)
 
