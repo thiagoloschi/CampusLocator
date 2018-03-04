@@ -19,6 +19,6 @@ This project was built in Java for a native Android experience, in 2015.
 <br />
 
 ### APK
-You can download the apk [here](https://github.com/thiagoloschi/CampusLocator/raw/master/CampusLocator.apk).
+The apk can be downloaded from [here](https://github.com/thiagoloschi/CampusLocator/raw/master/CampusLocator.apk).
 <br />
 
