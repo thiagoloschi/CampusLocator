@@ -11,6 +11,8 @@ This is a facility locator, I built when I was living in Hayward, CA. Students a
 <br />
 
 ### How it works
+The user will see categories of facilities in the main screen, such as dinning, sports, shuttle stops and so on, then they will have a list of all the mapped buildings in each category. Once they choose the one they want, they'll be able to see its location on a map, along some information about the place chosen.
+<br />
 
 ### Technologies
 This project was built in Java for a native Android experience, in 2015.
